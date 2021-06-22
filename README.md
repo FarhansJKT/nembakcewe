@@ -18,7 +18,7 @@
 Follow The Steps Below!
 
 ```bash
-> pkg update && pmg upgrade
+> pkg update && pkg upgrade
 > pkg install python3
 > git clone https://Riripii/nembakcewe
 > cd nembakcewe

@@ -9,9 +9,9 @@
 <a href="https://github.com/Riripii"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FARHAN-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Riripii/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fxc7?color=blue&style=flat-square"></a>
-<a href="https://github.com/Riripii/nrmbakcewe/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fxc7/termux-bot-wa?color=red&style=flat-square"></a>
-<a href="https://github.com/Riripii/nembakcewe/network/members"><img title="Forks" src="http://img.shields.io/github/forks/Fxc7/termux-bot-wa?color=red&style=flat-square"></a>
+<a href="https://github.com/Riripii/followers"><img title="Followers" src="https://img.shields.io/github/followers/Riripii?color=blue&style=flat-square"></a>
+<a href="https://github.com/Riripii/nembakcewe/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Riripii/nembakcewe?color=red&style=flat-square"></a>
+<a href="https://github.com/Riripii/nembakcewe/network/members"><img title="Forks" src="http://img.shields.io/github/forks/Riripii/nembakcewe?color=red&style=flat-square"></a>
 </p>
 
 ## Install
